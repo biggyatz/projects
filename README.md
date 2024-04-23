@@ -1,16 +1,17 @@
 **Welcome to My Academic Projects Repository!**
 
 In this repository, you'll find a compilation of the graded academic projects I undertook during my illustrious four-year journey at VIT Vellore. Each project showcases my dedication, skills, and passion for learning across various subjects.
+***These are only the final reports of the graded projects for the full-scale implementation check for links regarding the dataset used or any other Github repositories***
 
 **1. Social Information Network Analysis:**
 *Course: Analysis of racial bias in football (Social Information Network)*
 
-Delve into the captivating world of social information networks as we meticulously dissected racial bias prevalent in football through the lens of popular magazines. This project not only explores the technical aspects but also sheds light on the societal implications of such biases.
+Delve into the captivating world of social information networks as we meticulously dissect racial bias prevalent in football through the lens of popular magazines. This project not only explores the technical aspects but also sheds light on the societal implications of such biases.
 
 **2. AI-driven Cursor Control:**
 *Course: AI*
 
-Ever wondered about the possibilities of controlling your desktop cursor using colors? Dive into the realm of Artificial Intelligence where we developed a desktop application that utilizes colors to maneuver the cursor and execute other functions. This project blends innovation with practicality, offering a glimpse into the future of human-computer interaction.
+Ever wondered about the possibilities of controlling your desktop cursor using colors? Dive into the realm of Artificial Intelligence where we developed a desktop application that utilizes colors to maneuver the cursor and execute other functions. This project blends innovation with practicality, offering a glimpse into the future of human-computer interaction it is a special project prototype for specially abled people or other accesibilities.
 
 **3. Point of Sales Service System:**
 *Course: Microprocessor*
