@@ -11,14 +11,20 @@ Delve into the captivating world of social information networks as we meticulous
 **2. AI-driven Cursor Control:**
 *Course: AI*
 
-Ever wondered about the possibilities of controlling your desktop cursor using colors? Dive into the realm of Artificial Intelligence where we developed a desktop application that utilizes colors to maneuver the cursor and execute other functions. This project blends innovation with practicality, offering a glimpse into the future of human-computer interaction it is a special project prototype for specially abled people or other accesibilities.
+Ever wondered about the possibilities of controlling your desktop cursor using colors? Dive into the realm of Artificial Intelligence where we developed a desktop application that utilizes colors to maneuver the cursor and execute other functions. This project blends innovation with practicality, offering a glimpse into the future of human-computer interaction it is a special project prototype for specially-abled people or other accessibilities.
 
-**3. Point of Sales Service System:**
+
+**4. IoT-Based Smart Energy Management Systems:**
+*Course: IOT*
+
+An IoT-based smart energy management system utilizes sensors and connectivity to monitor and control energy usage in real time. It collects data on energy consumption and optimizes usage patterns to reduce waste and lower costs. This system enables remote monitoring and control of appliances, integrates renewable energy sources, and provides insights for efficient energy management.
+
+**4. Point of Sales Service System:**
 *Course: Microprocessor*
 
 Explore the intricate workings of microprocessors through the development of a Point of Sales Service System using EMU8086. This project delves into the fundamental concepts of microprocessor architecture while showcasing its practical application in the realm of retail and service industries.
 
-**4. PYCHAIN:**
+**5. PYCHAIN:**
 *Course: Cryptocurrency Technologies*
 
 Embark on a journey into the fascinating world of cryptocurrencies with PYCHAIN, a self-made minable cryptocurrency model. Through this project, we demystify the complexities of blockchain technology and present a simplified yet comprehensive approach to understanding and implementing cryptocurrency systems.
